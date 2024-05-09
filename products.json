@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "Karums Sierins",
+    "price": 29,
+    "stock": 100
+  },
+  {
+    "Name": "Hotdogs",
+    "price": 199,
+    "stock": 9
+  },
+  {
+    "Name": "Sandwich",
+    "price": 250,
+    "stock": 20
+  },
+  {
+    "Name": "Cola 330ml",
+    "price": 90,
+    "stock": 500
+  },
+  {
+    "Name": "Cola 2L",
+    "price": 299,
+    "stock": 50
+  },
+  {
+    "Name": "Snickers",
+    "price": 99,
+    "stock": 300
+  },
+  {
+    "Name": "Sports Magazine",
+    "price": 399,
+    "stock": 60
+  },
+  {
+    "Name": "Coffee",
+    "price": 250,
+    "stock": 100
+  },
+  {
+    "Name": "Ice-cream",
+    "price": 155,
+    "stock": 60
+  }
+]
